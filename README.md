@@ -30,7 +30,7 @@ Using data-driven insights and visualization techniques.
 
 ->Dashboard Preview:
 
-![Dashboard](dashboard.png)
+![Dashboard](image/dashboard.png)
 
 ->Key Insights:
 * Tier 3 outlets contribute the highest revenue
@@ -79,6 +79,7 @@ This project demonstrates practical skills required for:
 ->Contact:
 
 Name: Menavath Pavan Kumar
+
 Email: [mpavankumar.17072006@gmail.com](mailto:mpavankumar.17072006@gmail.com)
 
 ⭐ If you found this useful
